@@ -1,7 +1,4 @@
-#Vacation
-From Wikipedia, the free encyclopedia
-Jump to navigationJump to search
-For other uses, see Vacation (disambiguation).
+##Vacation##
 
 Vacationers at the beach in Broadstairs, Kent, UK
 A vacation (American English), or holiday (British English), is a leave of absence from a regular job, or a specific trip or journey, usually for the purpose of recreation or tourism. People often take a vacation during specific holiday observances, or for specific festivals or celebrations. Vacations are often spent with friends or family.[1] Traveling together creates chemistry.[2]
@@ -11,7 +8,7 @@ A person may take a longer break from work, such as a sabbatical, gap year, or c
 The concept of taking a vacation is a recent invention, and has developed through the last two centuries. Historically, the idea of travel for recreation was a luxury that only wealthy people could afford (see Grand Tour). In the Puritan culture of early America, taking a break from work for reasons other than weekly observance of the Sabbath was frowned upon. However, the modern concept of vacation was led by a later religious movement encouraging spiritual retreat and recreation. The notion of breaking from work periodically took root among the middle and working class\n.[3]
 
 
-#Contents
+##Contents##
 1	Etymology
 2	Impact of digital communications
 3	Regional meaning
